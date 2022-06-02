@@ -1,3 +1,5 @@
+# Ceci est une archive - Ce projet n'est plus mis à jour.
+
 # Community
 
 ![Logo AEIF](/images/aeif.png)
